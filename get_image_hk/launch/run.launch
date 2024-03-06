@@ -1,0 +1,4 @@
+<launch>
+    <node name="client_img_com111" pkg="get_image_hk" type="client_img_com3c.py" output="screen" 
+          launch-prefix="source /opt/SinevaAGV/SinevaCodeAMR/dl_env/bin/activate && rosrun"/>
+</launch>
